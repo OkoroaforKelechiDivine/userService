@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    #    you can run localhost:8761 to view all instances on spring eureka
+    #    you can run localhost:8761 to view all instances on spring eureka`
     name: USER-SERVICE
 
 eureka:
